@@ -1,3 +1,5 @@
+<div style="text-align: center;">
+
 ![View Counter](https://komarev.com/ghpvc/?username=ammar-n-abbas&color=brightgreen)
 [![GitHub User's stars](https://img.shields.io/github/stars/ammar-n-abbas?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=GitHub%20%E2%98%85%20Received&logo=github&style=flat-square)](https://github.com/ammar-n-abbas)
 
