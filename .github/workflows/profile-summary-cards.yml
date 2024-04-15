@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: ammar-n-abbas/profile-summary-card-output@release
+      - uses: ammar-n-abbas/tree/master/profile-summary-card-output@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
         with:
